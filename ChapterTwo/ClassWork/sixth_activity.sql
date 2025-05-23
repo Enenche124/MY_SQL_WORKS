@@ -1,0 +1,2 @@
+SELECT *
+FROM cape_codd.INVENTORY;
